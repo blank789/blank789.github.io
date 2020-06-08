@@ -52,6 +52,7 @@ h1 { font-weight: bold; }
 
 	/*Glass image*/
 	    #iGlassimage { float: left; width: 50vw; margin: -700px 0px 0px 150px; opacity: 0.3; }
+		@media screen and (max-width: 1920px){ #iGlassimage { float: left; width: 45vw; margin: -730px 0px 0px 140px; }}
 		@media screen and (max-width: 1200px){ #iGlassimage { float: left; width: 45vw; margin: -700px 0px 0px 90px; }}
 		@media screen and (max-width: 800px){ #iGlassimage { float: left; width: 45vw; margin: -720px 0px 0px 80px; }}
 		@media screen and (max-width: 600px){ #iGlassimage { float: left; width: 45vw; margin: -721px 0px 0px 60px; }}
